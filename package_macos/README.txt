@@ -29,8 +29,6 @@ Please, see game.cpp for a template implementation.
 When implementing application take special care about performance and memeory usage.
 Try to use data oriented programming approach.
 
-In case of any questions please contact: s.biloshytskyi@dragonlk.com
-
 Good luck!
 Bye.
 
